@@ -1,0 +1,34 @@
+.brand{
+    color: #2947A9;
+    font-family: 'Work Sans';
+font-style: italic;
+font-weight: 700;
+font-size: 30px;
+line-height: 35px;
+text-decoration: none;
+height: 35px;
+margin-left: 10px;
+
+
+
+}
+ 
+.contact{
+    color: #F9995D;
+}
+
+.nav-item{
+    color: #14171F;
+
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+margin-top: 5px;
+margin-left: 20px;
+
+
+
+
+}

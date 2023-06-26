@@ -1,0 +1,82 @@
+#services{
+    position: absolute;
+height: 608px;
+left: 0px;
+right: 0px;
+top: 2104px;
+
+/* Neutral/50 */
+
+background: #F6F8F7;
+}
+.service_h4{
+
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+
+/* Neutral/800 */
+
+color: #292E3D;
+}
+
+.servive_card{
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    gap: 20px;
+    
+    /* position: absolute; */
+    width: 271px;
+    height: 181px;
+    /* left: 216px;
+    top: 122px; */
+    
+    background: #FFFFFF;
+    box-shadow: 0px 0px 37px -2px rgba(17, 24, 39, 0.05);
+    border-radius: 4px;
+}
+
+.service_p{
+    /* Service */
+
+
+width: 128px;
+height: 23px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 23px;
+text-align: center;
+
+/* Primary */
+
+color: #2947A9;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 2;
+flex-grow: 0;
+}
+
+#service_blue{
+    background-color: #2947A9;
+    color: white;
+}
+@media screen and (max-width: 786px) {
+    #services{
+        margin-top: 180%;
+    }
+    
+}

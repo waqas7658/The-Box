@@ -1,0 +1,74 @@
+.consult{
+    position: absolute;
+top: 3434px;
+
+position: absolute;
+width: 1339px;
+height: 300px;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../Images/consultant.png');
+    background-attachment: fixed;
+    object-fit: cover;
+    
+}
+
+.consult_h4{
+    position: absolute;
+width: 754px;
+height: 42px;
+left: 112px;
+top: 100px;
+
+/* Heading/4 */
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 42px;
+
+color: #FFFFFF;
+}
+.consult_p{
+    position: absolute;
+width: 396px;
+height: 28px;
+left: 112px;
+top: 172px;
+
+/* Body/large */
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+
+color: #FFFFFF;
+}
+
+
+
+
+
+
+.consult_btn{
+    width: 270px;
+height: 50px;
+background-color:transparent;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 21px;
+text-align: center;
+
+margin-top: 140px;
+border-color: white;
+
+/* Neutral/White */
+
+color: #FFFFFF;
+
+
+
+}
